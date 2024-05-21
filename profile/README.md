@@ -36,10 +36,11 @@ Tools we are using to build applications from every traveler's dream
 - TailwindCSS
 - JavaScript
 - Formik
-- Playwright
-- Webpack
+- Vite
 - React-intl
 - Jest
+- React Testing Library
+- Playwright
 
 ### Fun fact 🤡
 The difference between the time zones of the founders equals the difference between their birthdays
