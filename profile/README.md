@@ -30,10 +30,10 @@ Tools we are using to build applications from every traveler's dream
 - GitHub Actions
 
 ### Frontend stack 💅
-- NextJS
 - React
 - Redux Toolkit
-- MaterialUI
+- React Router
+- TailwindCSS
 - JavaScript
 - Formik
 - Playwright
