@@ -9,6 +9,7 @@ The Voyage is a service providing travel guides, tips, and city insights for tra
 Here's a brief overview of the repositories we maintain:
 - [VoyageBackend](https://github.com/voyageglobal/voyage-backend) is the core backend repository, that provides all main APIs
 - [VoyageFrontend](https://github.com/voyageglobal/voyage-frontend) is the core frontend repository, that provides UI for using the app
+- [VoyageAdmin](https://github.com/voyageglobal/voyage-admin) is the admin frontend repository hosting UI of the admin panel
 
 ## Documentation 📄
 Each repo has its own documentation/guides/technical description inside `/docs` folder
