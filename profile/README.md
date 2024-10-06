@@ -30,7 +30,7 @@ Tools we are using to build applications from every traveler's dream
 - Swagger
 - GitHub Actions
 
-### Frontend stack 💅
+### Frontend client app stack 💅
 - React
 - Redux Toolkit
 - React Router
@@ -43,8 +43,16 @@ Tools we are using to build applications from every traveler's dream
 - React Testing Library
 - Playwright
 
-### Fun fact 🤡
-The difference between the time zones of the founders equals the difference between their birthdays
+### Frontend admin app stack 💅
+- Typescript
+- Next.js
+- Next-auth
+- TailwindCSS
+- Daisyui
+- Nivo
+- Jest
+- React Testing Library
+- Playwright
 
 <!--
 
