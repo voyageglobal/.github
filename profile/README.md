@@ -50,8 +50,10 @@ Tools we are using to build applications from every traveler's dream
 - TailwindCSS
 - Daisyui
 - Nivo
-- Jest
-- React Testing Library
+- @tanstack/react-table
+- @tanstack/react-query
+- Jest?
+- React Testing Library?
 - Playwright
 
 <!--
